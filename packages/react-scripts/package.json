@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "iiska-react-scripts",
   "version": "0.7.0",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "description": "My custom configuration and scripts for Create React App.",
+  "repository": "iiska/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/iiska/create-react-app/issues"
   },
   "files": [
     ".babelrc",
@@ -53,6 +53,7 @@
     "http-proxy-middleware": "0.17.2",
     "jest": "16.0.2",
     "json-loader": "0.5.4",
+    "node-sass": "3.10.1",
     "object-assign": "4.1.0",
     "path-exists": "2.1.0",
     "postcss-loader": "1.0.0",
